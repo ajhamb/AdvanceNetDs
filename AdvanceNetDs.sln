@@ -3,9 +3,14 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2000
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceNetDs", "AdvanceNetDs\AdvanceNetDs.csproj", "{DBD2A445-7381-47C5-BE3E-B6C2D42FF748}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdvanceNetDs", "AdvanceNetDs\AdvanceNetDs.csproj", "{DBD2A445-7381-47C5-BE3E-B6C2D42FF748}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdvanceNetDs.Test", "AdvanceNetDs.Test\AdvanceNetDs.Test.csproj", "{60E1B019-6B67-421C-B2A9-2436FAEB8DC1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16647837-0991-4116-A5EB-8E9C81911A1C}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
